@@ -106,6 +106,13 @@ func DefaultConfig() Config {
 				Key:     "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
 				Timeout: 2,
 			},
+			MessagePusher: MessagePusherStruct{
+                                Enabled: false,
+                                Token:     "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+                                Timeout: 2,
+                                ServerAddress: "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+                                Username: "xxx",
+                        },
 		},
 	}
 }
