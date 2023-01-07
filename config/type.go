@@ -47,6 +47,7 @@ type BotStruct struct {
 	HexQBot    HexQBotStruct    `yaml:"HexQBot"`
 	ServerChan ServerChanStruct `yaml:"ServerChan"`
 	WgpSecBot  WgpSecBotStruct  `yaml:"WgpSecBot"`
+	MessagePusher  MessagePusherStruct  `yaml:"MessagePusher"`
 }
 
 type WecomBotStruct struct {
