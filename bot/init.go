@@ -24,5 +24,7 @@ func BotInit() {
 	if Cfg.Bot.WgpSecBot.Enabled {
 		register.RegisterBot(&WgpSecBot{})
 	}
-
+        if Cfg.Bot.MessagePusher.Enabled {
+                register.RegisterBot(&MessagePusher{})
+        }
 }
