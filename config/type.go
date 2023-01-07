@@ -88,6 +88,14 @@ type WgpSecBotStruct struct {
 	Timeout uint8  `yaml:"timeout"`
 }
 
+type MessagePusherStruct struct {
+    Enabled bool   `yaml:"enabled"`
+    Token     string `yaml:"token"`
+    Timeout uint8  `yaml:"timeout"`
+    ServerAddress     string `yaml:"serveraddress"`
+    Username     string `yaml:"username"`
+}
+
 type EdgeForumStruct struct {
 	Enabled bool `yaml:"enabled"`
 }
