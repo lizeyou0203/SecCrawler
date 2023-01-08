@@ -213,7 +213,7 @@ ChromeDriver镜像站：http://npm.taobao.org/mirrors/chromedriver/
 - [x] [钉钉群机器人](https://open.dingtalk.com/document/robots/custom-robot-access)
 - [x] [WgpSecBot](https://bot.wgpsec.org)
 - [ ] [pushplus](http://pushplus.hxtrip.com/)
-- [ ] [MessagePusher]
+- [x] [MessagePusher]()
 
 ## Install
 
