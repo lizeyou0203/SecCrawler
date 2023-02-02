@@ -349,7 +349,7 @@ Bot:
     token: xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
     timeout: 2
     serveraddress: xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
-    username: root
+    username: xxx
 
 ```
 
