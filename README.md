@@ -346,9 +346,9 @@ Bot:
   # MessagePusher
   MessagePusher:
     enabled: true
-    token: bingfeng2022messagepusher
+    token: xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
     timeout: 2
-    serveraddress: https://messagepusher.wangzhuanzhijia.cf
+    serveraddress: xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
     username: root
 
 ```
